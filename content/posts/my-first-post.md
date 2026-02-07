@@ -1,6 +1,9 @@
 +++
 date = '2026-02-06T01:22:20+08:00'
 draft = false
+
+tags = '杂篇'
+
 title = 'My First Post'
 
 +++
