@@ -1,11 +1,11 @@
-#baseURL = 'https://lyysldzjc0087.github.io/Insulindian-Phasmid/'
+baseURL = 'https://lyysldzjc0087.github.io/Insulindian-Phasmid/'
 #baseURL = 'http://localhost:1313/IN'
-#relativeURLs = false
+relativeURLs = true
 #canonifyURLs = true
 #uglyURLs = false
-title = 'AAA建材李姐 - 本地开发'
+#title = 'AAA建材李姐 - 本地开发'
 languageCode = 'en-us'
-#title = 'AAA建材李姐'
+title = 'AAA建材李姐'
 theme = 'archie'
 
 pygmentsstyle = "monokai"
@@ -18,7 +18,7 @@ pagerSize = 3
 [params]
 	mode="auto"# color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](Insulindian-Phasmid/posts/my-first-post/)"
+	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](/posts/my-first-post/)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
