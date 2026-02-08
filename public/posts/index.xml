@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AAA建材李姐</title>
-    <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on AAA建材李姐</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Feb 2026 00:30:44 +0800</lastBuildDate>
-    <atom:link href="https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>受难日志</title>
-      <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/log/</link>
+      <link>/posts/log/</link>
       <pubDate>Mon, 09 Feb 2026 00:30:44 +0800</pubDate>
-      <guid>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/log/</guid>
+      <guid>/posts/log/</guid>
       <description>&lt;p&gt;没完没了的受难ing&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/post-2/</link>
+      <link>/posts/post-2/</link>
       <pubDate>Sat, 07 Feb 2026 02:29:16 +0800</pubDate>
-      <guid>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/post-2/</guid>
+      <guid>/posts/post-2/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写在前面：这是第二篇，这个就比较敷衍了，差不多都是AI写的。当时好像是准备什么考试，实在自己写不动了，而且我也不太喜欢社会契约论，感觉好无聊啊，呃呃总之就是挺烂的一堆东西。对。我连标题都没写。&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/post-1/</link>
+      <link>/posts/post-1/</link>
       <pubDate>Sat, 07 Feb 2026 02:03:56 +0800</pubDate>
-      <guid>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/post-1/</guid>
+      <guid>/posts/post-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写在前面：这是文明经典的第一篇习作，前面中规中矩吧，就是回顾了一下书的基本内容，我还是看了一下书的，虽然没看完而且前面太多城邦的复杂关系搞得我昏昏的。后面抒发自己观点的时候&amp;hellip;当时就很想用阿尔都塞的理论来写，结果写的太惨不忍睹了，为了阿尔都塞而阿尔都塞，什么也没分析，反正现在看这篇文挺糟糕的。&lt;/p&gt;&#xA;&lt;p&gt;哦哦对了，这篇文章AI率是0，我也不知道我怎么做到的，反正我将得意地笑起来。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;😊&lt;/p&gt;</description>
     </item>
     <item>
       <title>SmallTry</title>
-      <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/smalltry/</link>
+      <link>/posts/smalltry/</link>
       <pubDate>Sat, 07 Feb 2026 00:23:47 +0800</pubDate>
-      <guid>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/smalltry/</guid>
+      <guid>/posts/smalltry/</guid>
       <description>&lt;p&gt;只是一些尝试&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Fri, 06 Feb 2026 01:22:20 +0800</pubDate>
-      <guid>https://lyysldzjc0087.github.io/Insulindian-Phasmid/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;欢迎光临&#34;&gt;欢迎光临！！&lt;/h2&gt;</description>
     </item>
   </channel>

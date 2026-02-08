@@ -1,6 +1,6 @@
-baseURL = 'https://lyysldzjc0087.github.io/Insulindian-Phasmid/'
+#baseURL = 'https://lyysldzjc0087.github.io/Insulindian-Phasmid/'
 #baseURL = 'http://localhost:1313/IN'
-relativeURLs = true
+#relativeURLs = true
 #canonifyURLs = true
 #uglyURLs = false
 #title = 'AAA建材李姐 - 本地开发'
