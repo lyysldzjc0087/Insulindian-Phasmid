@@ -1,8 +1,7 @@
-baseURL = 'https://example.org/'
+#baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '一个花了n小时仍有重重关卡的网站'
+title = 'AAA建材李姐'
 theme = 'archie'
-
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -14,14 +13,23 @@ pagerSize = 3
 [params]
 	# mode="toggle" color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](/posts/my-first-post/)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
+
+#入场页
+#	showEntryPage = true
+
+#	enableEntryPage = true
+#	entryMessage = "简单开始"
+#	entryDelay = 3
+#	entryTarget = "/posts"
+#
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/"
+url = "https://github.com/lyysldzjc0087/Insulindian-Phasmid"
 
 [[menu.main]]
 name = "Home"
@@ -42,3 +50,8 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+
+#[[menu.main]]
+#name = "欢迎页"
+#url="/posts/entry"

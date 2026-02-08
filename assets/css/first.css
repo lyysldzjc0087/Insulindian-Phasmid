@@ -48,3 +48,7 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[menu.main]]
+name = "欢迎页"
+url="/posts/entry"

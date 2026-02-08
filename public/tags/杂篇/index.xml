@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>杂篇 on 一个花了n小时仍有重重关卡的网站</title>
-    <link>http://localhost:1313/tags/%E6%9D%82%E7%AF%87/</link>
-    <description>Recent content in 杂篇 on 一个花了n小时仍有重重关卡的网站</description>
+    <title>杂篇 on AAA建材李姐</title>
+    <link>//localhost:1313/tags/%E6%9D%82%E7%AF%87/</link>
+    <description>Recent content in 杂篇 on AAA建材李姐</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Feb 2026 00:23:47 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%9D%82%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Feb 2026 00:30:44 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%9D%82%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>受难日志</title>
+      <link>//localhost:1313/posts/log/</link>
+      <pubDate>Mon, 09 Feb 2026 00:30:44 +0800</pubDate>
+      <guid>//localhost:1313/posts/log/</guid>
+      <description>&lt;p&gt;没完没了的受难ing&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SmallTry</title>
-      <link>http://localhost:1313/posts/smalltry/</link>
+      <link>//localhost:1313/posts/smalltry/</link>
       <pubDate>Sat, 07 Feb 2026 00:23:47 +0800</pubDate>
-      <guid>http://localhost:1313/posts/smalltry/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;​&#x9;我发现一个问题，我使用的主题无法识别markdown，或者说，对于## 它并不会识别为加粗，而是打出来，所以我要试试html&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;这是一段加强的文字&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;这是一段加粗文字&lt;!-- raw HTML omitted --&gt;（有区别吗..）&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;斜体&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;也是斜体&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;等等，为什么什么也没有&lt;/p&gt;&#xA;&lt;h2 id=&#34;好坑&#34;&gt;好坑&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;早知道不用这个主题了。&lt;/p&gt;&#xA;&lt;p&gt;#都显示，html不显示 TT&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TT&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;这个可以用？&lt;/p&gt;&lt;/blockquote&gt;&#xA;&#xA;&lt;div class=&#39;callout callout-&#39; style=&#39;&#39;&gt;&#xA;  &lt;div class=&#34;callout-inner&#34;&gt;&#xA;    &#xA;    💡 Original callout.&#xA;    &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pyplot&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(a)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;第四关&#34;&gt;第四关&lt;/h2&gt;&#xA;&lt;p&gt;为什么我配置的CSS不显示&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/smalltry/</guid>
+      <description>&lt;p&gt;只是一些尝试&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 06 Feb 2026 01:22:20 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;欢迎光临&#34;&gt;欢迎光临！！&lt;/h2&gt;&#xA;&lt;p&gt;我一直想开一个个人博客，写一些小小脑洞和灵感，可惜一直没实现&lt;/p&gt;&#xA;&lt;p&gt;2025年暑假是我第一次尝试开一个个人博客，可是当时一直注册不上GitHub，git也没弄明白，就一直搁置了&lt;/p&gt;&#xA;&lt;p&gt;还好这个寒假我突然想到了，于是花了三个多小时弄好了。可惜有个问题是GitHub是国外的，国内不一定可以打开。但是我又不太想去花钱买域名，毕竟这个网站只是个人一时兴起，所以暂且这样啦。&lt;/p&gt;&#xA;&lt;p&gt;其实我感觉这个网站不会有人光临的，但是谁说得准呢hhh，万一某一天心血来潮，我要和朋友共创这个小网站呢&lt;/p&gt;&#xA;&lt;p&gt;总之，就这样~&lt;/p&gt;&#xA;&lt;p&gt;我去，还有第二关。&lt;/p&gt;&#xA;&lt;p&gt;把仓库设成私人后发现网站打不开了&amp;hellip;原来免费用户只能设成公共的，那好吧。&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;欢迎光临&#34;&gt;欢迎光临！！&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

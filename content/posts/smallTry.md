@@ -8,6 +8,10 @@ title = 'SmallTry'
 
 +++
 
+只是一些尝试
+
+<!--more-->
+
 <h1>一个标题</h1>
 
 ​	我发现一个问题，我使用的主题无法识别markdown，或者说，对于## 它并不会识别为加粗，而是打出来，所以我要试试html
@@ -28,9 +32,9 @@ title = 'SmallTry'
 
 ## 好坑...
 
-早知道不用这个主题了。
+&emsp;&emsp;早知道不用这个主题了。
 
-#都显示，html不显示 TT
+&emsp;&emsp;#都显示，html不显示 TT
 
 **TT**
 
@@ -48,14 +52,15 @@ print(a)
 
 ## 第四关
 
-为什么我配置的CSS不显示
+&emsp;&emsp;为什么我配置的CSS不显示
 
-：（
+&emsp;&emsp;：（
 
-谁管它，我全配.toml里面了
+&emsp;&emsp;谁管它，我全配.toml里面了
 
 
 
 ## 第五关
 
-那个disqusShortname（貌似是留言功能）也要钱，索性不留这个功能了www
+&emsp;&emsp;那个disqusShortname（貌似是留言功能）也要钱，索性不留这个功能了www
+
