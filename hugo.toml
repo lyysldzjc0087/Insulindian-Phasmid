@@ -18,7 +18,7 @@ pagerSize = 3
 [params]
 	mode="auto"# color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](/posts/my-first-post/)"
+	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](posts/my-first-post/)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
