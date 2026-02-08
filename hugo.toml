@@ -1,11 +1,11 @@
-baseURL = 'https://lyysldzjc0087.github.io/'
-#baseURL = 'http://localhost:1313/'
-relativeURLs = true
-canonifyURLs = false
-uglyURLs = false
-#title = 'AAA建材李姐 - 本地开发'
+#baseURL = 'https://lyysldzjc0087.github.io/Insulindian-Phasmid/'
+#baseURL = 'http://localhost:1313/IN'
+#relativeURLs = false
+#canonifyURLs = true
+#uglyURLs = false
+title = 'AAA建材李姐 - 本地开发'
 languageCode = 'en-us'
-title = 'AAA建材李姐'
+#title = 'AAA建材李姐'
 theme = 'archie'
 
 pygmentsstyle = "monokai"
