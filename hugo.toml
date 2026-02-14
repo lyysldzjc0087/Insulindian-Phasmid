@@ -21,6 +21,8 @@ pagerSize = 3
 	subtitle = "哇 你怎么来视奸我了 [欢迎你一下](posts/my-first-post/)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
+	defaultLineHeight = 2.0
+	defaultFontSize = '18px'
 
 #入场页
 #	showEntryPage = true
@@ -60,3 +62,6 @@ weight = 4
 #[[menu.main]]
 #name = "欢迎页"
 #url="/posts/entry"
+
+
+

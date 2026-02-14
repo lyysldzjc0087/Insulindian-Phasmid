@@ -2,52 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AAA建材李姐</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on AAA建材李姐</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 00:30:44 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 23:55:28 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>和一些国外名著斗智斗勇的日常</title>
+      <link>//localhost:1313/posts/tucaopost/mainpost/</link>
+      <pubDate>Tue, 10 Feb 2026 23:55:28 +0800</pubDate>
+      <guid>//localhost:1313/posts/tucaopost/mainpost/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写在前面：这些是我在看一些翻译成中文的国外书籍时，遇到的很想吐槽的一些东西，这些东西我大概和好多人吐槽过（我是吐槽役来的），索性今天写个合订本。&lt;/p&gt;&#xA;&lt;p&gt;我最近有看过一个视频。讨论的是如何读书（视频专门讨论的是哲学文本，但是我们先不管（不是）），视频观点是要像采蘑菇一样读书。蘑菇有可能是有毒的/致命的，采的时候一定要稳准狠，差别要第一时间把握，相似性与差异性要精准区分。掌握careful and critical reading后与文本的互动才是有意义和价值的。但是我读书一般都是把书视为一种消费品，读完一遍可能就不会再读了，更不要说深入文本了，甚至有的书我一遍都读不完，高中的时候好多书$^1$都读了一半就没读了，另外，看书的时候，我的关注点也挺奇特的$^2$，我更喜欢关注里面一些很有意思的点。😕总之我已经不再想说自己在读书了，只是欣赏一下人类历史上的优秀书籍😊。&lt;/p&gt;&#xA;&lt;p&gt;仅仅是个人感受（或者说个人情感宣泄？），每本书都颇有名气（没名气的我也不会知道💦），也很值得阅读，我的吐槽（也不完全是吐槽吧。！）并不会让它们明珠蒙尘但会让我很开心😊，更有可能的是暴露我的不学无术但是会让我很开心😊。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
     <item>
       <title>受难日志</title>
-      <link>/posts/log/</link>
+      <link>//localhost:1313/posts/log/</link>
       <pubDate>Mon, 09 Feb 2026 00:30:44 +0800</pubDate>
-      <guid>/posts/log/</guid>
+      <guid>//localhost:1313/posts/log/</guid>
       <description>&lt;p&gt;没完没了的受难ing&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Post 2</title>
-      <link>/posts/post-2/</link>
-      <pubDate>Sat, 07 Feb 2026 02:29:16 +0800</pubDate>
-      <guid>/posts/post-2/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写在前面：这是第二篇，这个就比较敷衍了，差不多都是AI写的。当时好像是准备什么考试，实在自己写不动了，而且我也不太喜欢社会契约论，感觉好无聊啊，呃呃总之就是挺烂的一堆东西。对。我连标题都没写。&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Post 1</title>
-      <link>/posts/post-1/</link>
-      <pubDate>Sat, 07 Feb 2026 02:03:56 +0800</pubDate>
-      <guid>/posts/post-1/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写在前面：这是文明经典的第一篇习作，前面中规中矩吧，就是回顾了一下书的基本内容，我还是看了一下书的，虽然没看完而且前面太多城邦的复杂关系搞得我昏昏的。后面抒发自己观点的时候&amp;hellip;当时就很想用阿尔都塞的理论来写，结果写的太惨不忍睹了，为了阿尔都塞而阿尔都塞，什么也没分析，反正现在看这篇文挺糟糕的。&lt;/p&gt;&#xA;&lt;p&gt;哦哦对了，这篇文章AI率是0，我也不知道我怎么做到的，反正我将得意地笑起来。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;😊&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>SmallTry</title>
-      <link>/posts/smalltry/</link>
+      <link>//localhost:1313/posts/smalltry/</link>
       <pubDate>Sat, 07 Feb 2026 00:23:47 +0800</pubDate>
-      <guid>/posts/smalltry/</guid>
+      <guid>//localhost:1313/posts/smalltry/</guid>
       <description>&lt;p&gt;只是一些尝试&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;&lt;strong&gt;这是一个普通的个人网站 主包正在努力建设^^&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>欢迎光临</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 06 Feb 2026 01:22:20 +0800</pubDate>
-      <guid>/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;欢迎光临&#34;&gt;欢迎光临！！&lt;/h2&gt;</description>
     </item>
   </channel>
