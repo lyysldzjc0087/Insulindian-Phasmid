@@ -34,11 +34,11 @@
 
 <header>
 	<div class="main">
-		<a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a>
+		<a href="https://lyysldzjc0087.github.io/Insulindian-Phasmid/">{{ .Site.Title }}</a>
 	</div>
 	<nav>
 		{{ range .Site.Menus.main }}
-		<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+		<a href="{{ .URL }}">{{ .Name }}</a>
 		{{ end }}
 		{{ if eq .Site.Params.mode "toggle" -}}
 		<button id="dark-mode-toggle" class="nav-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" type="button">{{template "feathericon" (dict "UseCDN" .Site.Params.useCDN "Icon" "sun") }}</button>

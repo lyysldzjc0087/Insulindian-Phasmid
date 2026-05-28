@@ -40,6 +40,11 @@
       {{ end }}
     </div>
 
+    <!-- Busuanzi page view -->
+    <div class="page-view-count">
+      <span id="busuanzi_container_page_pv">阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
+    </div>
+
     <!-- Disqus -->
     {{- $.Scratch.Set "isDisqus" true -}}
     {{ if not .Site.Config.Services.Disqus.Shortname }}
